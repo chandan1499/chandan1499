@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 <h1 align="center">Hi 👋, I'm Chandan Gupta</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
