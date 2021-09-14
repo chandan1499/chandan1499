@@ -19,6 +19,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan1499&show_icons=true&locale=en&layout=compact" alt="chandan1499" /></p>
 
-<p>&nbsp;<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1499&count_private=true&show_icons=true&theme=tokyonight" /></p>
+<p width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan1499&count_private=true&show_icons=true&theme=tokyonight" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan1499&theme=tokyonight" /></p>
