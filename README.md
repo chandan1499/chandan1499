@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently working as a **SDE-1 @ dream11**
 
 - 👨‍💻 All of my projects are available at [https://chandangupta.netlify.app/](https://chandangupta.netlify.app/)
 
